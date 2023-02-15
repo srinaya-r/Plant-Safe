@@ -1,2 +1,2 @@
 # Plant-Safe
-Plant Safe is an application that aims in classifying  the potato plant leaf images as healthy, late blight or early blight.
+PlantSafe, is an application that aims in classifying  the potato plant leaf images as healthy, late blight or early blight. The images are cleaned, pre-processed and augmented using TensorFlow in Python and the image classifier is built using a CNN model with 93% accuracy. 
